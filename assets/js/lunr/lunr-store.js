@@ -4,4 +4,10 @@ var store = [{
         "tags": [],
         "url": "/posts/phd-bas-advert",
         "teaser": null
+      },{
+        "title": "confschedule: a LaTeX package for conference programmes",
+        "excerpt":"As the self-declared nerdiest member of the organising committee of MCQMC 2026, I happily volunteered to build the programme book. Previous MCQMC conferences had developed LaTeX templates for talk and session submissions, along with Python code to read data from spreadsheets and produce LaTeX files that ultimately produce the programme....","categories": ["blog"],
+        "tags": ["tex","package"],
+        "url": "/posts/blog/confschedule",
+        "teaser": null
       }]
