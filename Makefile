@@ -30,7 +30,7 @@ help:
 
 serve:
 	@$(_check_ruby) \
-	bundle exec jekyll serve
+	bundle exec jekyll serve --open-url
 
 publish:
 	@test -n "$(MSG)" || { echo "Error: publish requires MSG='commit message'" >&2; exit 1; }
