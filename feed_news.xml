@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US">
+  <title>Abdul-Lateef Haji-Ali — News</title>
+  <subtitle>News and updates from Abdul-Lateef Haji-Ali</subtitle>
+  <link href="/feed_news.xml" rel="self" type="application/atom+xml"/>
+  <link href="/" rel="alternate" type="text/html"/>
+  <updated>2026-07-23T10:26:15+01:00</updated>
+  <id>/feed_news.xml</id>
+  <author>
+    <name>Abdul-Lateef Haji-Ali</name>
+    <email>a.hajiali@hw.ac.uk</email>
+  </author><entry>
+    <title type="html">Multi-index importance sampling for McKean-Vlasov stochastic differential equations</title>
+    <link href="https://doi.org/10.1016/j.cam.2026.117988" rel="alternate" type="text/html"/>
+    <published>2026-07-20T00:00:00Z</published>
+    <updated>2026-07-20T00:00:00Z</updated>
+    <id>https://doi.org/10.1016/j.cam.2026.117988</id>
+    <content type="html"><![CDATA[<p>New published paper, titled:&nbsp;"<a href="https://doi.org/10.1016/j.cam.2026.117988">Multi-index importance sampling for McKean-Vlasov stochastic differential equations</a>",&nbsp;in <em><a href="https://www.sciencedirect.com/journal/journal-of-computational-and-applied-mathematics">Journal of Computational and Applied Mathematics</a></em>.
+      </p>]]></content>
+  </entry><entry>
+    <title type="html">An Adaptive Sampling Algorithm for Level-set Approximation</title>
+    <link href="https://arxiv.org/abs/2509.14896" rel="alternate" type="text/html"/>
+    <published>2026-07-10T00:00:00Z</published>
+    <updated>2026-07-10T00:00:00Z</updated>
+    <id>https://arxiv.org/abs/2509.14896</id>
+    <content type="html"><![CDATA[<p>New published paper, titled:&nbsp;"<a href="https://arxiv.org/abs/2509.14896">An Adaptive Sampling Algorithm for Level-set Approximation</a>",&nbsp;in <em><a href="https://academic.oup.com/imajna">IMA Journal of Numerical Analysis</a></em>.
+      </p>]]></content>
+  </entry><entry>
+    <title type="html">Hierarchical Monte Carlo Methods for SPDEs</title>
+    <link href="https://maths.ed.ac.uk/events/mcqmc-2026" rel="alternate" type="text/html"/>
+    <published>2026-06-10T00:00:00Z</published>
+    <updated>2026-06-10T00:00:00Z</updated>
+    <id>https://maths.ed.ac.uk/events/mcqmc-2026</id>
+    <content type="html"><![CDATA[<p>Talk&nbsp;at <em><a href="https://maths.ed.ac.uk/events/mcqmc-2026">MCQMC 2026</a></em>&nbsp;in Edinburgh, titled: "<a href="/assets/files/talks/2026_10_08_MCQMC_hajiali_spdes.pdf">Hierarchical Monte Carlo Methods for SPDEs</a>".
+      </p>]]></content>
+  </entry><entry>
+    <title type="html">I am on the organizing committee for &quot;[_MCQMC 2026_](https://maths.ed.ac.uk/e...</title>
+    <link href="/news" rel="alternate" type="text/html"/>
+    <published>2026-06-08T00:00:00Z</published>
+    <updated>2026-06-08T00:00:00Z</updated>
+    <id>/news#2026-06-08-event-I am on the organizing committ</id>
+    <content type="html"><![CDATA[<p>I am on the organizing committee for “<a href="https://maths.ed.ac.uk/events/mcqmc-2026" target="_blank" rel="nofollow noopener noreferrer"><em>MCQMC 2026</em></a>” in Edinburgh.</p>]]></content>
+  </entry><entry>
+    <title type="html">confschedule: a LaTeX package for conference programmes</title>
+    <link href="/posts/blog/confschedule" rel="alternate" type="text/html"/>
+    <published>2026-05-30T00:00:00Z</published>
+    <updated>2026-05-30T00:00:00Z</updated>
+    <id>/posts/blog/confschedule</id>
+    <content type="html"><![CDATA[<p>New post: "<a href="/posts/blog/confschedule">confschedule: a LaTeX package for conference programmes</a>".&nbsp;A TeX package that manages the full pipeline for conference programmes, from submission files to schedule grids, abstract listings, and a participant index, born out of organising MCQMC 2026 in Edinburgh.</p>]]></content>
+  </entry><entry>
+    <title type="html">Multilevel and Multi-Index Monte Carlo: Theory, Practice, and mimclib</title>
+    <link href="https://rss.org.uk/training-events/events/events-2026/local-groups/recent-advances-in-stochastic-processes-theory-and/" rel="alternate" type="text/html"/>
+    <published>2026-05-27T00:00:00Z</published>
+    <updated>2026-05-27T00:00:00Z</updated>
+    <id>https://rss.org.uk/training-events/events/events-2026/local-groups/recent-advances-in-stochastic-processes-theory-and/</id>
+    <content type="html"><![CDATA[<p>Talk&nbsp;at <em><a href="https://rss.org.uk/training-events/events/events-2026/local-groups/recent-advances-in-stochastic-processes-theory-and/">Recent advances in stochastic processes: theory and applications</a></em>&nbsp;in Edinburgh, titled: "<a href="/assets/files/talks/2026_05_27_RSS_hajiali_mimclib.pdf">Multilevel and Multi-Index Monte Carlo: Theory, Practice, and mimclib</a>".
+      </p>]]></content>
+  </entry><entry>
+    <title type="html">Efficient risk estimation for the credit valuation adjustment</title>
+    <link href="https://arxiv.org/abs/2301.05886" rel="alternate" type="text/html"/>
+    <published>2026-01-10T00:00:00Z</published>
+    <updated>2026-01-10T00:00:00Z</updated>
+    <id>https://arxiv.org/abs/2301.05886</id>
+    <content type="html"><![CDATA[<p>New published paper, titled:&nbsp;"<a href="https://arxiv.org/abs/2301.05886">Efficient risk estimation for the credit valuation adjustment</a>",&nbsp;in <em><a href="https://link.springer.com/journal/780">Finance and Stochastics</a></em>.
+      </p>]]></content>
+  </entry><entry>
+    <title type="html">Multilevel Monte Carlo and Path Branching for Digital Options</title>
+    <link href="https://www.acom.rwth-aachen.de/research/lunch-seminars" rel="alternate" type="text/html"/>
+    <published>2025-12-09T00:00:00Z</published>
+    <updated>2025-12-09T00:00:00Z</updated>
+    <id>https://www.acom.rwth-aachen.de/research/lunch-seminars</id>
+    <content type="html"><![CDATA[<p>Talk&nbsp;in Mathematical Modeling and Simulation Lunch Seminar, titled: "<a href="/assets/files/talks/2025_12_09_ACoM_hajiali_path-branching.pdf">Multilevel Monte Carlo and Path Branching for Digital Options</a>".
+      </p>]]></content>
+  </entry><entry>
+    <title type="html">Efficient Risk Estimation for Orbital Collisions Using Hierarchical Monte Carlo Methods</title>
+    <link href="/news" rel="alternate" type="text/html"/>
+    <published>2025-12-04T00:00:00Z</published>
+    <updated>2025-12-04T00:00:00Z</updated>
+    <id>/news#2025-12-04-talk-Efficient Risk Estimation for</id>
+    <content type="html"><![CDATA[<p>Talk&nbsp;in DLR, titled: "<a href="/assets/files/talks/2025_12_04_DLR_hajiali_MC-collisions.pdf">Efficient Risk Estimation for Orbital Collisions Using Hierarchical Monte Carlo Methods</a>".
+      </p>]]></content>
+  </entry><entry>
+    <title type="html">Particles, Flows &amp; Maps for Sampling Complex Distributions</title>
+    <link href="https://workshop-pfm25.epfl.ch" rel="alternate" type="text/html"/>
+    <published>2025-11-03T00:00:00Z</published>
+    <updated>2025-11-03T00:00:00Z</updated>
+    <id>https://workshop-pfm25.epfl.ch</id>
+    <content type="html"><![CDATA[<p>Talk&nbsp;at <em><a href="https://workshop-pfm25.epfl.ch">Particles, Flows &amp; Maps for Sampling Complex Distributions</a></em>&nbsp;in Bernoulli Center, EPFL, Lausanne.
+      </p>]]></content>
+  </entry><entry>
+    <title type="html">RSS Meeting on UQ methods</title>
+    <link href="https://rss.org.uk/training-events/events/events-2025/section-groups/uncertainty-quantification-methods-(in-person)" rel="alternate" type="text/html"/>
+    <published>2025-09-23T00:00:00Z</published>
+    <updated>2025-09-23T00:00:00Z</updated>
+    <id>https://rss.org.uk/training-events/events/events-2025/section-groups/uncertainty-quantification-methods-(in-person)</id>
+    <content type="html"><![CDATA[<p>I organized a Royal Statistical Society meeting on “<a href="https://rss.org.uk/training-events/events/events-2025/section-groups/uncertainty-quantification-methods-(in-person)" target="_blank" rel="nofollow noopener noreferrer"><em>UQ methods</em></a>”.</p>]]></content>
+  </entry><entry>
+    <title type="html">Uncertainty Quantification and Hierarchical Methods</title>
+    <link href="/news" rel="alternate" type="text/html"/>
+    <published>2025-09-12T00:00:00Z</published>
+    <updated>2025-09-12T00:00:00Z</updated>
+    <id>/news#2025-09-12-talk-Uncertainty Quantification and</id>
+    <content type="html"><![CDATA[<p>Talk&nbsp;at <em>Joint Workshop DLR &amp; RWTH</em>&nbsp;in German Aerospace Center (DLR), titled: "Uncertainty Quantification and Hierarchical Methods".
+      </p>]]></content>
+  </entry><entry>
+    <title type="html">Hierarchical Methods for Risk Assessment</title>
+    <link href="https://lnu.se/en/meet-linnaeus-university/current/events/2025/konferenser/snipss-2025--stochastic-numerics-and-inverse-problems-in-southern-sweden-2025/" rel="alternate" type="text/html"/>
+    <published>2025-08-29T00:00:00Z</published>
+    <updated>2025-08-29T00:00:00Z</updated>
+    <id>https://lnu.se/en/meet-linnaeus-university/current/events/2025/konferenser/snipss-2025--stochastic-numerics-and-inverse-problems-in-southern-sweden-2025/</id>
+    <content type="html"><![CDATA[<p>Talk&nbsp;at <em><a href="https://lnu.se/en/meet-linnaeus-university/current/events/2025/konferenser/snipss-2025--stochastic-numerics-and-inverse-problems-in-southern-sweden-2025/">Stochastic Numerics and Inverse Problems in Sweden</a></em>&nbsp;in Linnaeus University, Växjö, titled: "<a href="/assets/files/talks/2025_06_18_SNIPSS_hajiali_hier-risk.pdf">Hierarchical Methods for Risk Assessment</a>".
+      </p>]]></content>
+  </entry><entry>
+    <title type="html">Hierarchical Methods for Risk Assessment</title>
+    <link href="https://math4uq.github.io/workshop2025" rel="alternate" type="text/html"/>
+    <published>2025-08-14T00:00:00Z</published>
+    <updated>2025-08-14T00:00:00Z</updated>
+    <id>https://math4uq.github.io/workshop2025</id>
+    <content type="html"><![CDATA[<p>Talk&nbsp;at <em><a href="https://math4uq.github.io/workshop2025">Mathematics for Uncertainty Quantification Workshop</a></em>&nbsp;in Aachen, Germany, titled: "Hierarchical Methods for Risk Assessment".
+      </p>]]></content>
+  </entry><entry>
+    <title type="html">An Adaptive Sampling Scheme for Level-set Approximation</title>
+    <link href="https://ccbatiit.github.io/mcm2025/" rel="alternate" type="text/html"/>
+    <published>2025-07-28T00:00:00Z</published>
+    <updated>2025-07-28T00:00:00Z</updated>
+    <id>https://ccbatiit.github.io/mcm2025/</id>
+    <content type="html"><![CDATA[<p>Talk&nbsp;at <em><a href="https://ccbatiit.github.io/mcm2025/">International Conference on Monte Carlo Methods and Applications (MCM)</a></em>&nbsp;in Chicago, USA, titled: "<a href="/assets/files/talks/2025_07_29_MCM_hajiali_adaptive-level-set.pdf">An Adaptive Sampling Scheme for Level-set Approximation</a>".
+      </p>]]></content>
+  </entry><entry>
+    <title type="html">Weak convergence analysis of the McKean-Vlasov equations using stochastic flows of particle systems</title>
+    <link href="https://doi.org/10.1093/imamat/hxaf015" rel="alternate" type="text/html"/>
+    <published>2025-07-17T00:00:00Z</published>
+    <updated>2025-07-17T00:00:00Z</updated>
+    <id>https://doi.org/10.1093/imamat/hxaf015</id>
+    <content type="html"><![CDATA[<p>New published paper, titled:&nbsp;"<a href="https://doi.org/10.1093/imamat/hxaf015">Weak convergence analysis of the McKean-Vlasov equations using stochastic flows of particle systems</a>".
+      </p>]]></content>
+  </entry><entry>
+    <title type="html">Multilevel Monte Carlo and Path Branching for Digital Options</title>
+    <link href="https://webhomes.maths.ed.ac.uk/~mbrolly2/uqdm/index.html" rel="alternate" type="text/html"/>
+    <published>2025-07-09T00:00:00Z</published>
+    <updated>2025-07-09T00:00:00Z</updated>
+    <id>https://webhomes.maths.ed.ac.uk/~mbrolly2/uqdm/index.html</id>
+    <content type="html"><![CDATA[<p>Talk&nbsp;at <em><a href="https://webhomes.maths.ed.ac.uk/~mbrolly2/uqdm/index.html">Uncertainty Quantification for Dynamical Modelling</a></em>&nbsp;in Edinburgh, UK, titled: "<a href="/assets/files/talks/2025_07_09_UQDM_hajiali_path-branching.pdf">Multilevel Monte Carlo and Path Branching for Digital Options</a>".
+      </p>]]></content>
+  </entry><entry>
+    <title type="html">Bayesian computation with generative diffusion models by Multilevel Monte Carlo</title>
+    <link href="https://numericalanalysisconference.org.uk/" rel="alternate" type="text/html"/>
+    <published>2025-06-24T00:00:00Z</published>
+    <updated>2025-06-24T00:00:00Z</updated>
+    <id>https://numericalanalysisconference.org.uk/</id>
+    <content type="html"><![CDATA[<p>Talk&nbsp;at <em><a href="https://numericalanalysisconference.org.uk/">The 30th Biennial Numerical Analysis Conference</a></em>&nbsp;in University of Strathclyde, Glasgow, UK, titled: "<a href="/assets/files/talks/2025_06_24_BiNAC_hajiali_mlmc-for-dm.pdf">Bayesian computation with generative diffusion models by Multilevel Monte Carlo</a>".
+      </p>]]></content>
+  </entry><entry>
+    <title type="html">Bayesian computation with generative diffusion models by Multilevel Monte Carlo</title>
+    <link href="https://centreforstatistics.maths.ed.ac.uk/events/upcoming-events/cfs-annual-conference-2025" rel="alternate" type="text/html"/>
+    <published>2025-06-18T00:00:00Z</published>
+    <updated>2025-06-18T00:00:00Z</updated>
+    <id>https://centreforstatistics.maths.ed.ac.uk/events/upcoming-events/cfs-annual-conference-2025</id>
+    <content type="html"><![CDATA[<p>Talk&nbsp;at <em><a href="https://centreforstatistics.maths.ed.ac.uk/events/upcoming-events/cfs-annual-conference-2025">CfS Annual Conference 2025</a></em>&nbsp;in Edinburgh, UK, titled: "Bayesian computation with generative diffusion models by Multilevel Monte Carlo".
+      </p>]]></content>
+  </entry><entry>
+    <title type="html">The multi-index Monte Carlo method for semilinear stochastic partial differential equations</title>
+    <link href="https://www.epfl.ch/labs/csqi/" rel="alternate" type="text/html"/>
+    <published>2025-06-10T00:00:00Z</published>
+    <updated>2025-06-10T00:00:00Z</updated>
+    <id>https://www.epfl.ch/labs/csqi/</id>
+    <content type="html"><![CDATA[<p>Talk&nbsp;at <em><a href="https://www.epfl.ch/labs/csqi/">Scientific Computing and Uncertainty Quantification</a></em>&nbsp;in EPFL, titled: "<a href="/assets/files/talks/2025_06_10_EPFL_hajiali_mimc-for-spdes.pdf">The multi-index Monte Carlo method for semilinear stochastic partial differential equations</a>".
+      </p>]]></content>
+  </entry><entry>
+    <title type="html">An antithetic multilevel Monte Carlo-Milstein scheme for stochastic partial differential equations with non-commutative noise</title>
+    <link href="https://doi.org/10.1051/m2an/2025031" rel="alternate" type="text/html"/>
+    <published>2025-05-27T00:00:00Z</published>
+    <updated>2025-05-27T00:00:00Z</updated>
+    <id>https://doi.org/10.1051/m2an/2025031</id>
+    <content type="html"><![CDATA[<p>New published paper, titled:&nbsp;"<a href="https://doi.org/10.1051/m2an/2025031">An antithetic multilevel Monte Carlo-Milstein scheme for stochastic partial differential equations with non-commutative noise</a>".
+      </p>]]></content>
+  </entry><entry>
+    <title type="html">An Adaptive Sampling Scheme for Level-set Approximation</title>
+    <link href="https://cemse.kaust.edu.sa/events/by-type/workshop/2025/05/18/stochastic-numerics-and-statistical-learning-theory-and" rel="alternate" type="text/html"/>
+    <published>2025-05-19T00:00:00Z</published>
+    <updated>2025-05-19T00:00:00Z</updated>
+    <id>https://cemse.kaust.edu.sa/events/by-type/workshop/2025/05/18/stochastic-numerics-and-statistical-learning-theory-and</id>
+    <content type="html"><![CDATA[<p>Talk&nbsp;at <em><a href="https://cemse.kaust.edu.sa/events/by-type/workshop/2025/05/18/stochastic-numerics-and-statistical-learning-theory-and">Stochastic Numerics and Statistical Learning: Theory and Applications Workshop 2025</a></em>&nbsp;in King Abdullah University of Science and Technology, titled: "<a href="/assets/files/talks/2025_05_19_KAUST_hajiali_adaptive-level-set.pdf">An Adaptive Sampling Scheme for Level-set Approximation</a>".
+      </p>]]></content>
+  </entry><entry>
+    <title type="html">I was awarded and accepted the &quot;[Humboldt Research Fellowship for Experienced...</title>
+    <link href="/news" rel="alternate" type="text/html"/>
+    <published>2025-04-29T00:00:00Z</published>
+    <updated>2025-04-29T00:00:00Z</updated>
+    <id>/news#2025-04-29-career-I was awarded and accepted the</id>
+    <content type="html"><![CDATA[<p>I was awarded and accepted the “<a href="https://www.humboldt-foundation.de/en/" target="_blank" rel="nofollow noopener noreferrer">Humboldt Research Fellowship for Experienced Researchers</a>”. As part of this fellowship, I will be visiting the “<a href="https://www.uq.rwth-aachen.de" target="_blank" rel="nofollow noopener noreferrer">Chair of Mathematics for Uncertainty Quantification</a>” in RWTH Aachen.</p>]]></content>
+  </entry><entry>
+    <title type="html">The multi-index Monte Carlo method for semilinear stochastic partial differential equations</title>
+    <link href="https://arxiv.org/abs/2502.00393" rel="alternate" type="text/html"/>
+    <published>2025-02-05T00:00:00Z</published>
+    <updated>2025-02-05T00:00:00Z</updated>
+    <id>https://arxiv.org/abs/2502.00393</id>
+    <content type="html"><![CDATA[<p>New preprint:&nbsp;"<a href="https://arxiv.org/abs/2502.00393">The multi-index Monte Carlo method for semilinear stochastic partial differential equations</a>".
+      </p>]]></content>
+  </entry><entry>
+    <title type="html">A multi-index Monte Carlo method for semilinear parabolic SPDEs</title>
+    <link href="https://www.maths.ox.ac.uk/node/68820" rel="alternate" type="text/html"/>
+    <published>2025-01-23T00:00:00Z</published>
+    <updated>2025-01-23T00:00:00Z</updated>
+    <id>https://www.maths.ox.ac.uk/node/68820</id>
+    <content type="html"><![CDATA[<p>Talk&nbsp;at <em><a href="https://www.maths.ox.ac.uk/node/68820">Computational Mathematics and Applications Seminar</a></em>&nbsp;in Mathematical Institute, Oxford, titled: "<a href="/assets/files/talks/2025_01_23_oxford_hajiali_mimc-spde.pdf">A multi-index Monte Carlo method for semilinear parabolic SPDEs</a>".
+      </p>]]></content>
+  </entry><entry>
+    <title type="html">A multi-index Monte Carlo method for semilinear parabolic SPDEs</title>
+    <link href="https://www.math.tamu.edu/seminars/harmonic/index.php" rel="alternate" type="text/html"/>
+    <published>2024-12-13T00:00:00Z</published>
+    <updated>2024-12-13T00:00:00Z</updated>
+    <id>https://www.math.tamu.edu/seminars/harmonic/index.php</id>
+    <content type="html"><![CDATA[<p>Talk&nbsp;at <em><a href="https://www.math.tamu.edu/seminars/harmonic/index.php">Mathematical Physics and Harmonic Analysis Seminar</a></em>&nbsp;in Texas A&amp;M University, titled: "A multi-index Monte Carlo method for semilinear parabolic SPDEs".
+      </p>]]></content>
+  </entry><entry>
+    <title type="html">Efficient Risk Estimation for the Credit Valuation Adjustment</title>
+    <link href="https://eps.leeds.ac.uk/maths-statistics" rel="alternate" type="text/html"/>
+    <published>2024-11-20T00:00:00Z</published>
+    <updated>2024-11-20T00:00:00Z</updated>
+    <id>https://eps.leeds.ac.uk/maths-statistics</id>
+    <content type="html"><![CDATA[<p>Talk&nbsp;at <em><a href="https://eps.leeds.ac.uk/maths-statistics">Probability Seminar at the University of Leeds</a></em>&nbsp;in University of Leeds, titled: "<a href="/assets/files/talks/2024_11_20_Leeds_hajiali_risk-cva.pdf">Efficient Risk Estimation for the Credit Valuation Adjustment</a>".
+      </p>]]></content>
+  </entry><entry>
+    <title type="html">Bayesian computation with generative diffusion models by Multilevel Monte Carlo</title>
+    <link href="https://doi.org/10.48550/arxiv.2409.15511" rel="alternate" type="text/html"/>
+    <published>2024-09-25T00:00:00Z</published>
+    <updated>2024-09-25T00:00:00Z</updated>
+    <id>https://doi.org/10.48550/arxiv.2409.15511</id>
+    <content type="html"><![CDATA[<p>New preprint:&nbsp;"<a href="https://doi.org/10.48550/arxiv.2409.15511">Bayesian computation with generative diffusion models by Multilevel Monte Carlo</a>".
+      </p>]]></content>
+  </entry><entry>
+    <title type="html">Efficient Risk Estimation for the Credit Valuation Adjustment</title>
+    <link href="https://www.scc.kit.edu/en/events/macm-seminar.php" rel="alternate" type="text/html"/>
+    <published>2024-09-04T00:00:00Z</published>
+    <updated>2024-09-04T00:00:00Z</updated>
+    <id>https://www.scc.kit.edu/en/events/macm-seminar.php</id>
+    <content type="html"><![CDATA[<p>Talk&nbsp;at <em><a href="https://www.scc.kit.edu/en/events/macm-seminar.php">Modern Applied and Computational Mathematics (MACM) Seminar</a></em>&nbsp;in Karlsruhe Institute of Technology, titled: "<a href="/assets/files/talks/2024_09_04_MACM_hajiali_risk-cva.pdf">Efficient Risk Estimation for the Credit Valuation Adjustment</a>".
+      </p>]]></content>
+  </entry><entry>
+    <title type="html">Antithetic Milstein scheme for SPDEs</title>
+    <link href="https://cemse.kaust.edu.sa/events/event/snsl-workshop-2024" rel="alternate" type="text/html"/>
+    <published>2024-05-21T00:00:00Z</published>
+    <updated>2024-05-21T00:00:00Z</updated>
+    <id>https://cemse.kaust.edu.sa/events/event/snsl-workshop-2024</id>
+    <content type="html"><![CDATA[<p>Talk&nbsp;at <em><a href="https://cemse.kaust.edu.sa/events/event/snsl-workshop-2024">Stochastic Numerics and Statistical Learning: Theory and Applications Workshop</a></em>&nbsp;in King Abdullah University of Science and Technology, titled: "<a href="/assets/files/talks/2024_05_21_KAUST_hajiali_antithetic_SPDE.pdf">Antithetic Milstein scheme for SPDEs</a>".
+      </p>]]></content>
+  </entry><entry>
+    <title type="html">MLMC Techniques for Computing Probabilities</title>
+    <link href="https://www.siam.org/conferences/cm/conference/uq24" rel="alternate" type="text/html"/>
+    <published>2024-02-29T00:00:00Z</published>
+    <updated>2024-02-29T00:00:00Z</updated>
+    <id>https://www.siam.org/conferences/cm/conference/uq24</id>
+    <content type="html"><![CDATA[<p>I presented a talk on “MLMC Techniques for Computing Probabilities” in the “<a href="https://www.siam.org/conferences/cm/conference/uq24" target="_blank" rel="nofollow noopener noreferrer">SIAM Conference on Uncertainty Quantification</a>” as part of the minisymposium “<a href="https://meetings.siam.org/sess/dsp_programsess.cfm?sessioncode=78408" target="_blank" rel="nofollow noopener noreferrer">Theory and Simulation of Failure Probabilities and Rare Events</a>”.</p>]]></content>
+  </entry><entry>
+    <title type="html">An Antithetic Multilevel Monte Carlo-Milstein Scheme for Stochastic Partial Differential Equation</title>
+    <link href="https://pde.icm.edu.pl/" rel="alternate" type="text/html"/>
+    <published>2023-12-13T00:00:00Z</published>
+    <updated>2023-12-13T00:00:00Z</updated>
+    <id>https://pde.icm.edu.pl/</id>
+    <content type="html"><![CDATA[<p>Talk&nbsp;at <em><a href="https://pde.icm.edu.pl/">Third workshop on Monte Carlo methods</a></em>, titled: "An Antithetic Multilevel Monte Carlo-Milstein Scheme for Stochastic Partial Differential Equation".
+      </p>]]></content>
+  </entry><entry>
+    <title type="html">An Antithetic Multilevel Monte Carlo-Milstein Scheme for Stochastic Partial Differential Equation</title>
+    <link href="https://lnu.se/en/meet-linnaeus-university/current/events/2023/workshop-on-spdes-their-numerics-and-applications/" rel="alternate" type="text/html"/>
+    <published>2023-12-06T00:00:00Z</published>
+    <updated>2023-12-06T00:00:00Z</updated>
+    <id>https://lnu.se/en/meet-linnaeus-university/current/events/2023/workshop-on-spdes-their-numerics-and-applications/</id>
+    <content type="html"><![CDATA[<p>Talk&nbsp;at <em><a href="https://lnu.se/en/meet-linnaeus-university/current/events/2023/workshop-on-spdes-their-numerics-and-applications/">The Linnaeus University Workshop on S(P)DEs, their numerics and applications</a></em>, titled: "An Antithetic Multilevel Monte Carlo-Milstein Scheme for Stochastic Partial Differential Equation".
+      </p>]]></content>
+  </entry><entry>
+    <title type="html">An Antithetic Multilevel Monte Carlo-Milstein Scheme for Stochastic Partial Differential Equations</title>
+    <link href="https://arxiv.org/abs/2307.14169" rel="alternate" type="text/html"/>
+    <published>2023-07-26T00:00:00Z</published>
+    <updated>2023-07-26T00:00:00Z</updated>
+    <id>https://arxiv.org/abs/2307.14169</id>
+    <content type="html"><![CDATA[<p>New preprint:&nbsp;"<a href="https://arxiv.org/abs/2307.14169">An Antithetic Multilevel Monte Carlo-Milstein Scheme for Stochastic Partial Differential Equations</a>".
+      </p>]]></content>
+  </entry><entry>
+    <title type="html">State-dependent importance sampling for estimating expectations of functionals of sums of independent random variables</title>
+    <link href="https://doi.org/10.1007/s11222-021-10055-1" rel="alternate" type="text/html"/>
+    <published>2023-02-04T00:00:00Z</published>
+    <updated>2023-02-04T00:00:00Z</updated>
+    <id>https://doi.org/10.1007/s11222-021-10055-1</id>
+    <content type="html"><![CDATA[<p>New published paper, titled:&nbsp;"<a href="https://doi.org/10.1007/s11222-021-10055-1">State-dependent importance sampling for estimating expectations of functionals of sums of independent random variables</a>".
+      </p>]]></content>
+  </entry><entry>
+    <title type="html">Efficient Risk Estimation for the Credit Valuation Adjustment</title>
+    <link href="https://arxiv.org/abs/2301.05886" rel="alternate" type="text/html"/>
+    <published>2023-01-14T00:00:00Z</published>
+    <updated>2023-01-14T00:00:00Z</updated>
+    <id>https://arxiv.org/abs/2301.05886</id>
+    <content type="html"><![CDATA[<p>New preprint:&nbsp;"<a href="https://arxiv.org/abs/2301.05886">Efficient Risk Estimation for the Credit Valuation Adjustment</a>".
+      </p>]]></content>
+  </entry><entry>
+    <title type="html">Adaptive Sampling for Computing Probabilities and Risk Measures</title>
+    <link href="https://www.cee.ed.tum.de/era/seminars/" rel="alternate" type="text/html"/>
+    <published>2022-12-13T00:00:00Z</published>
+    <updated>2022-12-13T00:00:00Z</updated>
+    <id>https://www.cee.ed.tum.de/era/seminars/</id>
+    <content type="html"><![CDATA[<p>Talk&nbsp;at <em><a href="https://www.cee.ed.tum.de/era/seminars/">Engineering Risk Analysis Seminar</a></em>&nbsp;in Technical University of Munich, titled: "<a href="/assets/files/talks/2022_12_13_ERA_hajiali_adaptive_risk_measures.pdf">Adaptive Sampling for Computing Probabilities and Risk Measures</a>".
+      </p>]]></content>
+  </entry><entry>
+    <title type="html">Multilevel Path Branching for Digital Options</title>
+    <link href="https://arxiv.org/abs/2209.03017" rel="alternate" type="text/html"/>
+    <published>2022-09-07T00:00:00Z</published>
+    <updated>2022-09-07T00:00:00Z</updated>
+    <id>https://arxiv.org/abs/2209.03017</id>
+    <content type="html"><![CDATA[<p>New preprint:&nbsp;"<a href="https://arxiv.org/abs/2209.03017">Multilevel Path Branching for Digital Options</a>".
+      </p>]]></content>
+  </entry><entry>
+    <title type="html">Multilevel Importance Sampling for McKean-Vlasov Stochastic Differential Equation</title>
+    <link href="https://arxiv.org/abs/2208.03225" rel="alternate" type="text/html"/>
+    <published>2022-08-05T00:00:00Z</published>
+    <updated>2022-08-05T00:00:00Z</updated>
+    <id>https://arxiv.org/abs/2208.03225</id>
+    <content type="html"><![CDATA[<p>New preprint:&nbsp;"<a href="https://arxiv.org/abs/2208.03225">Multilevel Importance Sampling for McKean-Vlasov Stochastic Differential Equation</a>".
+      </p>]]></content>
+  </entry><entry>
+    <title type="html">I was promoted to Associate Professor.</title>
+    <link href="/news" rel="alternate" type="text/html"/>
+    <published>2022-08-01T00:00:00Z</published>
+    <updated>2022-08-01T00:00:00Z</updated>
+    <id>/news#2022-08-01-career-I was promoted to Associate Pr</id>
+    <content type="html"><![CDATA[<p>I was promoted to Associate Professor.</p>]]></content>
+  </entry><entry>
+    <title type="html">Path Branching for Digital Options</title>
+    <link href="https://www.ricam.oeaw.ac.at/events/conferences/mcqmc2022/" rel="alternate" type="text/html"/>
+    <published>2022-07-21T00:00:00Z</published>
+    <updated>2022-07-21T00:00:00Z</updated>
+    <id>https://www.ricam.oeaw.ac.at/events/conferences/mcqmc2022/</id>
+    <content type="html"><![CDATA[<p>My talk on <a href="assets/files/talks/2022_07_21_MCQMC_hajiali_path_branching.pdf" target="_blank">“<em>Path Branching for Digital Options</em>”</a> was presented in <a href="https://www.ricam.oeaw.ac.at/events/conferences/mcqmc2022/" target="_blank" rel="nofollow noopener noreferrer">MCQMC 2022</a> by my co-author Prof. Mike Giles due to illness.</p>]]></content>
+  </entry><entry>
+    <title type="html">Single Level Importance Sampling for McKean-Vlasov Stochastic Differential Equations</title>
+    <link href="https://arxiv.org/abs/2207.06926" rel="alternate" type="text/html"/>
+    <published>2022-07-14T00:00:00Z</published>
+    <updated>2022-07-14T00:00:00Z</updated>
+    <id>https://arxiv.org/abs/2207.06926</id>
+    <content type="html"><![CDATA[<p>New preprint:&nbsp;"<a href="https://arxiv.org/abs/2207.06926">Single Level Importance Sampling for McKean-Vlasov Stochastic Differential Equations</a>".
+      </p>]]></content>
+  </entry><entry>
+    <title type="html">I participated in a focused research group on &quot;_UQ for SciML: Uncertainty Qua...</title>
+    <link href="/news" rel="alternate" type="text/html"/>
+    <published>2022-05-23T00:00:00Z</published>
+    <updated>2022-05-23T00:00:00Z</updated>
+    <id>/news#2022-05-23-event-I participated in a focused re</id>
+    <content type="html"><![CDATA[<p>I participated in a focused research group on “<em>UQ for SciML: Uncertainty Quantification for Scientific Machine Learning</em>” in University of Dundee funded by Heilbronn Institute for Mathematical Research.</p>]]></content>
+  </entry><entry>
+    <title type="html">Path Branching for Digital Options</title>
+    <link href="https://cemse.kaust.edu.sa/events/event/snsl-workshop" rel="alternate" type="text/html"/>
+    <published>2022-05-23T00:00:00Z</published>
+    <updated>2022-05-23T00:00:00Z</updated>
+    <id>https://cemse.kaust.edu.sa/events/event/snsl-workshop</id>
+    <content type="html"><![CDATA[<p>Talk&nbsp;at <em><a href="https://cemse.kaust.edu.sa/events/event/snsl-workshop">Stochastic Numerics and Statistical Learning: Theory and Applications Workshop</a></em>&nbsp;in King Abdullah University of Science and Technology, titled: "Path Branching for Digital Options".
+      </p>]]></content>
+  </entry><entry>
+    <title type="html">Adaptive Multilevel Monte Carlo for Probabilities</title>
+    <link href="https://doi.org/10.1137/21M1447064" rel="alternate" type="text/html"/>
+    <published>2022-05-03T00:00:00Z</published>
+    <updated>2022-05-03T00:00:00Z</updated>
+    <id>https://doi.org/10.1137/21M1447064</id>
+    <content type="html"><![CDATA[<p>New published paper, titled:&nbsp;"<a href="https://doi.org/10.1137/21M1447064">Adaptive Multilevel Monte Carlo for Probabilities</a>".
+      </p>]]></content>
+  </entry><entry>
+    <title type="html">Multilevel Path Branching for Digital Options</title>
+    <link href="https://www.esi.ac.at/events/e426/" rel="alternate" type="text/html"/>
+    <published>2022-05-02T00:00:00Z</published>
+    <updated>2022-05-02T00:00:00Z</updated>
+    <id>https://www.esi.ac.at/events/e426/</id>
+    <content type="html"><![CDATA[<p>Talk&nbsp;at <em><a href="https://www.esi.ac.at/events/e426/">Multilevel and multifidelity sampling methods in UQ for PDEs</a></em>, titled: "Multilevel Path Branching for Digital Options".
+      </p>]]></content>
+  </entry><entry>
+    <title type="html">Adaptive Multilevel Monte Carlo</title>
+    <link href="https://bamc2022.lboro.ac.uk/" rel="alternate" type="text/html"/>
+    <published>2022-04-11T00:00:00Z</published>
+    <updated>2022-04-11T00:00:00Z</updated>
+    <id>https://bamc2022.lboro.ac.uk/</id>
+    <content type="html"><![CDATA[<p>I co-organized with Dr Eric Hall a mini-symposium on “<em>Decision making under uncertainty</em>” in the <a href="https://bamc2022.lboro.ac.uk/" target="_blank" rel="nofollow noopener noreferrer">British Applied Mathematics Colloquium</a> and gave a talk on <a href="assets/files/talks/2022_4_11_BAMC_hajiali_adaptive_mlmc.pdf" target="_blank">“<em>Adaptive Multilevel Monte Carlo</em>”</a>.</p>]]></content>
+  </entry><entry>
+    <title type="html">Sub-sampling and other considerations for efficient risk estimation in large portfolios</title>
+    <link href="https://doi.org/10.21314/JCF.2022.019" rel="alternate" type="text/html"/>
+    <published>2022-03-14T00:00:00Z</published>
+    <updated>2022-03-14T00:00:00Z</updated>
+    <id>https://doi.org/10.21314/JCF.2022.019</id>
+    <content type="html"><![CDATA[<p>New published paper, titled:&nbsp;"<a href="https://doi.org/10.21314/JCF.2022.019">Sub-sampling and other considerations for efficient risk estimation in large portfolios</a>".
+      </p>]]></content>
+  </entry><entry>
+    <title type="html">Efficient Importance Sampling Algorithm Applied to the Performance Analysis of Wireless Communication Systems Estimation</title>
+    <link href="https://arxiv.org/abs/2201.01340" rel="alternate" type="text/html"/>
+    <published>2022-01-04T00:00:00Z</published>
+    <updated>2022-01-04T00:00:00Z</updated>
+    <id>https://arxiv.org/abs/2201.01340</id>
+    <content type="html"><![CDATA[<p>New preprint:&nbsp;"<a href="https://arxiv.org/abs/2201.01340">Efficient Importance Sampling Algorithm Applied to the Performance Analysis of Wireless Communication Systems Estimation</a>".
+      </p>]]></content>
+  </entry><entry>
+    <title type="html">MLMC for Computing Probabilities</title>
+    <link href="https://discovery.dundee.ac.uk/en/activities/dundee-mathematics-seminar" rel="alternate" type="text/html"/>
+    <published>2021-10-25T00:00:00Z</published>
+    <updated>2021-10-25T00:00:00Z</updated>
+    <id>https://discovery.dundee.ac.uk/en/activities/dundee-mathematics-seminar</id>
+    <content type="html"><![CDATA[<p>Talk&nbsp;at <em><a href="https://discovery.dundee.ac.uk/en/activities/dundee-mathematics-seminar">Dundee Mathematics Seminar</a></em>&nbsp;in University of Dundee, School of Science and Engineering, titled: "<a href="/assets/files/talks/2021_10_25_Dundee_hajiali_mlmc_probs.pdf">MLMC for Computing Probabilities</a>".
+      </p>]]></content>
+  </entry>
+</feed>
