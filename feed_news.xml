@@ -4,12 +4,20 @@
   <subtitle>News and updates from Abdul-Lateef Haji-Ali</subtitle>
   <link href="/feed_news.xml" rel="self" type="application/atom+xml"/>
   <link href="/" rel="alternate" type="text/html"/>
-  <updated>2026-10-22T11:27:13+01:00</updated>
+  <updated>2026-11-05T15:32:16+00:00</updated>
   <id>/feed_news.xml</id>
   <author>
     <name>Abdul-Lateef Haji-Ali</name>
     <email>a.hajiali@hw.ac.uk</email>
   </author><entry>
+    <title type="html">Iterating Consistency Models: Stability, Error Bounds and Noise Schedules</title>
+    <link href="https://arxiv.org/abs/2610.03414" rel="alternate" type="text/html"/>
+    <published>2026-10-02T00:00:00Z</published>
+    <updated>2026-10-02T00:00:00Z</updated>
+    <id>https://arxiv.org/abs/2610.03414</id>
+    <content type="html"><![CDATA[<p>New preprint:&nbsp;"<a href="https://arxiv.org/abs/2610.03414">Iterating Consistency Models: Stability, Error Bounds and Noise Schedules</a>".
+      </p>]]></content>
+  </entry><entry>
     <title type="html">Multi-index importance sampling for McKean-Vlasov stochastic differential equations</title>
     <link href="https://doi.org/10.1016/j.cam.2026.117988" rel="alternate" type="text/html"/>
     <published>2026-07-20T00:00:00Z</published>
@@ -391,14 +399,6 @@
     <updated>2022-01-04T00:00:00Z</updated>
     <id>https://arxiv.org/abs/2201.01340</id>
     <content type="html"><![CDATA[<p>New preprint:&nbsp;"<a href="https://arxiv.org/abs/2201.01340">Efficient Importance Sampling Algorithm Applied to the Performance Analysis of Wireless Communication Systems Estimation</a>".
-      </p>]]></content>
-  </entry><entry>
-    <title type="html">MLMC for Computing Probabilities</title>
-    <link href="https://discovery.dundee.ac.uk/en/activities/dundee-mathematics-seminar" rel="alternate" type="text/html"/>
-    <published>2021-10-25T00:00:00Z</published>
-    <updated>2021-10-25T00:00:00Z</updated>
-    <id>https://discovery.dundee.ac.uk/en/activities/dundee-mathematics-seminar</id>
-    <content type="html"><![CDATA[<p>Talk&nbsp;at <em><a href="https://discovery.dundee.ac.uk/en/activities/dundee-mathematics-seminar">Dundee Mathematics Seminar</a></em>&nbsp;in University of Dundee, School of Science and Engineering, titled: "<a href="/assets/files/talks/2021_10_25_Dundee_hajiali_mlmc_probs.pdf">MLMC for Computing Probabilities</a>".
       </p>]]></content>
   </entry>
 </feed>
